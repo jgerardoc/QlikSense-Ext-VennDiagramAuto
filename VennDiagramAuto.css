@@ -1,0 +1,58 @@
+.qv-object-VennDiagramAuto div.qv-object-content-container {
+	overflow: auto;
+}
+.qv-object-VennDiagramAuto .OnlyA {
+    border-radius: 100%;
+    float: left;
+    background-color: green;
+    vertical-align: middle;
+}
+
+.qv-object-VennDiagramAuto .OnlyB {
+    border-radius: 100%;
+    float: right;
+    background-color: rgba(0,0,255,0.5); 
+    vertical-align: middle;
+}
+
+.qv-object-VennDiagramAuto .TextA {
+    font-size: large;
+    text-align: left;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    text-indent: 0%;
+    vertical-align: middle;
+}
+
+.qv-object-VennDiagramAuto .TextB {
+    font-size: large;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    text-indent: 0%;
+    vertical-align: middle;
+}
+
+.qv-object-VennDiagramAuto .TextAB {
+    font-size: large;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: white;
+    text-indent: 0%;
+    vertical-align: middle;
+}
+
+.qv-object-VennDiagramAuto .LedgendA {
+    background-color: green;
+}
+
+.qv-object-VennDiagramAuto .LedgendB {
+    background-color: rgba(0,0,255,0.5);
+}
+

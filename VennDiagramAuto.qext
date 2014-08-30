@@ -1,0 +1,9 @@
+{
+	"name" : "Venn Diagram Auto",
+	"description" : "Venn Diagram Example with dimension and measure",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "VennDiagramAuto.png",
+	"author": "Juan Gerardo Cabeza"
+}
